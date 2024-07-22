@@ -1,0 +1,16 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  gap: 12px;
+}
+
+ul {
+  padding-left: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
