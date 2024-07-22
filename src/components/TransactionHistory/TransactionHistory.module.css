@@ -1,0 +1,21 @@
+.table{
+  width: 100%;
+  max-width: 600px;
+  border: 1px solid ;
+  text-align: center;
+}
+.thead{
+  background-color: #222020;
+    color: white;
+}
+.thList{
+  padding: 6px;
+  /* border: 1px solid black; */
+}
+.tdList{
+  padding: 6px;
+  border: 1px solid;
+}
+tr:nth-child(2n) {
+  background-color: rgba(168, 168, 168, 0.5);
+}
